@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "391733377904",
+    "firebase_url": "https://nasara-5cd84-default-rtdb.firebaseio.com",
+    "project_id": "nasara-5cd84",
+    "storage_bucket": "nasara-5cd84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391733377904:android:f29c590c5a06162a63edb5",
+        "android_client_info": {
+          "package_name": "com.gtappdevelopers.firebasecrudapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391733377904-g5coqqq909l3il1pb9cjhcsdi61hgltd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDedEHfhNIkNBcWKm1DPXYTTc__yUG4BDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391733377904-g5coqqq909l3il1pb9cjhcsdi61hgltd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
